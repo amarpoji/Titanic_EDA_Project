@@ -24,14 +24,4 @@ This project performs basic Exploratory Data Analysis (EDA) on the famous Titani
     python titanic_eda.py
     ```
 
-## Sample Visualizations
 
-### Survival by Gender
-![Survival by Gender](screenshots/survival_by_gender.png)
-
-### Survival by Passenger Class
-![Survival by Class](screenshots/survival_by_class.png)
-
-### Age Distribution
-![Age Distribution](screenshots/age_distribution.png)
-*Created with ❤️ by Ammar.*
